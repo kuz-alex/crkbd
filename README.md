@@ -18,6 +18,6 @@
 ![image](https://github.com/kuz-alex/crkbd/assets/14982837/77ff5694-6a93-47dd-97c2-1c2010f6f602)
 ![image](https://github.com/kuz-alex/crkbd/assets/14982837/8f2ab979-84d6-4fae-8cd5-1f0372d6dea4)
 
-# Pcb manufactoring params
+# Pcb manufacturing parameters
 ![image](https://github.com/kuz-alex/crkbd/assets/14982837/a8588ca6-9da0-4184-a161-e382c570df74)
 ![image](https://github.com/kuz-alex/crkbd/assets/14982837/9e3d91f7-736c-4fd2-ae0f-b3403100d1db)
